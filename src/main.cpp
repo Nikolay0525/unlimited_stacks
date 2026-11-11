@@ -1,6 +1,6 @@
 // unlimited_stacks: Kyubu port of coremaze's Cube-World-Unlimited-Item-Stacks-Mod.
 // Replaces cube::Creature::CanCarryMoreItems (0x43E4A0) so that it always answers "yes".
-#include "../../common.hpp"
+#include "../common.hpp"
 
 namespace {
 using CanCarryFn = bool(__fastcall*)(void* self, void* edx, void* item);
