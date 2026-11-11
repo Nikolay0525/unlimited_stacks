@@ -3,8 +3,6 @@
 > This is a **port to Kyubu** of the original mod [`coremaze/Cube-World-Unlimited-Item-Stacks-Mod`](https://github.com/coremaze/Cube-World-Unlimited-Item-Stacks-Mod).
 > Original author: **coremaze**. This port is not an official release by the author.
 
-Ukrainian: [README.uk.md](README.uk.md)
-
 **What it does:** Removes the limit on the size of item stacks.
 
 **Original:** <https://github.com/coremaze/Cube-World-Unlimited-Item-Stacks-Mod>
